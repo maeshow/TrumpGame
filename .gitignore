@@ -1,0 +1,6 @@
+.vscode/settings.json
+bin/App.class
+bin/internal/domain/usecase/Dealer.class
+bin/internal/domain/vo/Trump.class
+bin/internal/domain/vo/Trump$Mark.class
+bin/internal/presentation/Blackjack.class
